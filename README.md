@@ -101,4 +101,11 @@ The goal of this project is to demonstrate:
 - API integration concepts  
 - Real-time data handling  
 - Geolocation implementation  
-- Clean UI/UX design practices  
+- Clean UI/UX design practices
+
+
+
+---
+
+Live Link:
+https://weatherxcast.netlify.app/
