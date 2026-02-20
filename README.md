@@ -14,7 +14,8 @@ This application allows users to:
 
 ## 🚀 Key Features
 
-- ✅ Search weather by city name  
+- ✅ Search weather by city name
+- 
 - ✅ Real-time weather updates  
 - ✅ Automatic location detection (Geolocation API)  
 - ✅ Clean and responsive UI  
@@ -33,3 +34,9 @@ This application allows users to:
 ---
 
 ## 📂 Project Structure
+weather-prediction-app/
+│
+├── index.html # Main webpage structure
+├── style.css # Styling and layout
+├── script.js # JavaScript logic and weather data handling
+└── README.md # Project documentation
