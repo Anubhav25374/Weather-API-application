@@ -34,9 +34,11 @@ This application allows users to:
 ---
 
 ## 📂 Project Structure
+```css
 weather-prediction-app/
 │
 ├── index.html # Main webpage structure
 ├── style.css # Styling and layout
 ├── script.js # JavaScript logic and weather data handling
 └── README.md # Project documentation
+```
